@@ -1,0 +1,93 @@
+.hea{
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center; 
+}
+.header{
+    text-align: center;
+    margin-top: 20px;
+}
+.para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+    
+}
+.ima{
+    margin-right: 30px,
+}
+.hello{
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+}
+.first{
+    background-image: url(images/osa.png);
+    background-repeat: none;
+    background-size: cover;
+    
+}
+button{
+    background-color:brown;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    
+}
+button:hover{
+    background-color: azure;
+    color: black;
+    cursor: pointer;
+    font-style: italic;
+}
+#paint,#test4{
+    color:darkblue;
+    font-size: 22px;
+    padding-left: 40px;
+    width: 90%;
+    text-align: justify;
+}
+#test1, #test2, #test3{
+    padding-left: 40px;
+    width: 90%;
+    line-height: 1.5;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+
+}
+ 
+
+ .gallery {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    width:100% ;
+    margin-left: 20px;
+    border: 1px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.firsy{
+    float: left;
+    border:1px solid black;
+    margin: 20px 13px 13px 20px;
+    width: 300px;
+    height: 250px;
+    background-color:ghostwhite;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+
+}
+.firsy:hover{
+    background-color: lightgrey;
+}
+.firsy a img{
+    margin-top: 18px;
+    border-radius: 5px;
+}
